@@ -1,7 +1,7 @@
 ### 你好，世界 👋
 
 <!--
-**ameizi/ameizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zyw/zyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=ameizi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=zyw&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 > Write the code, Change the world.
 
 🇨🇳 China Xi'an ・ 🕹Java developer
 
-https://github.com/ameizi
+https://github.com/zyw
 
 ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/ameizi/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zyw/count.svg)
