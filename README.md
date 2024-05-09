@@ -25,3 +25,9 @@ https://github.com/zyw
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/zyw/count.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyw/zyw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyw/zyw//output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zyw/zyw/output/github-contribution-grid-snake.svg">
+</picture>
