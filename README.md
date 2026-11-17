@@ -104,6 +104,6 @@
 
 - 博客：[v5ai.xin](https://v5ai.xin)
 - GitHub：[@zyw](https://github.com/zyw)
-- Email：<!-- TODO: 填写对外邮箱；可公开使用 zyw090111@163.com -->
+- Email：zyw090111@163.com
 
 欢迎 Issue / PR；合作或交流请直接邮件或在相关仓库留言。
