@@ -40,26 +40,16 @@
 
 ### 代表项目
 
-<!-- 使用 github-readme-stats 的 pin 卡片；主题可按喜好改成 default / vue / tokyo_night 等 -->
+<!-- 不用 github-readme-stats pin 卡：官方 vercel.app 曾 503（DEPLOYMENT_PAUSED），国内也不稳。改用 Markdown + shields.io。 -->
 
-<p>
-  <a href="https://github.com/zyw/sqladvisor-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyw&repo=sqladvisor-web&theme=transparent&hide_border=true" alt="sqladvisor-web" />
-  </a>
-  <a href="https://github.com/zyw/v5notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyw&repo=v5notes&theme=transparent&hide_border=true" alt="v5notes" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/zyw/v5md">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyw&repo=v5md&theme=transparent&hide_border=true" alt="v5md" />
-  </a>
-  <a href="https://github.com/zyw/v5ai-nb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyw&repo=v5ai-nb&theme=transparent&hide_border=true" alt="v5ai-nb" />
-  </a>
-</p>
+| 项目 | 简介 | Stars |
+|------|------|-------|
+| [sqladvisor-web](https://github.com/zyw/sqladvisor-web) | 美团 SQLAdvisor 的 Web 版 | [![stars](https://img.shields.io/github/stars/zyw/sqladvisor-web?style=flat-square)](https://github.com/zyw/sqladvisor-web) |
+| [v5notes](https://github.com/zyw/v5notes) | 可私有部署 Markdown 云笔记 | [![stars](https://img.shields.io/github/stars/zyw/v5notes?style=flat-square)](https://github.com/zyw/v5notes) |
+| [v5md](https://github.com/zyw/v5md) | 可嵌入的所见即所得 Markdown 编辑器 | [![stars](https://img.shields.io/github/stars/zyw/v5md?style=flat-square)](https://github.com/zyw/v5md) |
+| [v5ai-nb](https://github.com/zyw/v5ai-nb) | 自托管 AI 应用平台 | [![stars](https://img.shields.io/github/stars/zyw/v5ai-nb?style=flat-square)](https://github.com/zyw/v5ai-nb) |
 
-<!-- TODO: 若更想强调历史代表作 v5cmsjava / langchain4j-demo，替换上面任意 pin。 -->
+<!-- TODO: 若更想强调 v5cmsjava / langchain4j-demo / v5xs，替换上表任意一行。 -->
 
 更多仓库 → [github.com/zyw?tab=repositories](https://github.com/zyw?tab=repositories)
 
@@ -84,9 +74,17 @@
 
 ### GitHub stats
 
+<!--
+  官方 https://github-readme-stats.vercel.app 当前返回 503 DEPLOYMENT_PAUSED，会导致裂图。
+  改用社区镜像 shion.dev（binarywang 等亦在用）。若镜像也挂：删掉下面两张图，只留 shields 汇总行即可。
+-->
+
+[![Followers](https://img.shields.io/github/followers/zyw?style=flat-square&logo=github&label=followers)](https://github.com/zyw?tab=followers)
+[![Public repos](https://img.shields.io/github/repositories/zyw?style=flat-square&logo=github&label=public%20repos)](https://github.com/zyw?tab=repositories)
+
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zyw&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&icon_color=0ea5e9&text_color=57606a&title_color=24292f" alt="zyw GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyw&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=zyw&show_icons=true&include_all_commits=true&hide_border=true&icon_color=0ea5e9&text_color=57606a&title_color=24292f" alt="zyw GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zyw&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <picture>
